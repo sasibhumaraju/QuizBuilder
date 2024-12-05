@@ -20,22 +20,21 @@ QuizBuilder is a Java-based interactive console application that challenges user
 
 ### Installation
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/QuizBuilder.git
-   cd QuizBuilder
-```
+    ```bash
+    git clone https://github.com/yourusername/QuizBuilder.git
+    cd QuizBuilder
+    ```
 
 2. Compile the code:
-
-```bash
-Copy code
-javac Main.java
-```
+    ```bash
+    Copy code
+    javac Main.java
+    ```
 
 3. Run the application:
-```bash
-java Main
-```
+    ```bash
+    java Main
+    ```
 
 # 🛠️ How It Works
 When you run the program, you'll be welcomed to the quiz.
