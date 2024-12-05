@@ -36,7 +36,7 @@ QuizBuilder is a Java-based interactive console application that challenges user
     java Main
     ```
 
-# 🛠️ How It Works
+## 🛠️ How It Works
 When you run the program, you'll be welcomed to the quiz.
 Questions will be displayed one by one with options.
 Type your answers into the console when prompted.
