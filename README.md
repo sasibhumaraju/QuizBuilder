@@ -3,7 +3,7 @@
 
 QuizBuilder is a Java-based interactive console application that challenges users with a multiple-choice quiz. It provides a lightweight and fun way to test knowledge while showcasing fundamental Java programming concepts like classes, arrays, and methods.
 
-[![Video Title](https://img.youtube.com/vi/5_Oc61__omA?si=19p-5hyP85gr70gk/0.jpg)](https://youtu.be/5_Oc61__omA?si=19p-5hyP85gr70gk)
+[![Video Title](https://img.youtube.com/vi/5_Oc61__omA/maxresdefault.jpg)](https://youtu.be/5_Oc61__omA?si=19p-5hyP85gr70gk)
 
 ## 📋 Features
 
