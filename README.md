@@ -23,15 +23,16 @@ QuizBuilder is a Java-based interactive console application that challenges user
    ```bash
    git clone https://github.com/yourusername/QuizBuilder.git
    cd QuizBuilder
-```   
-Compile the code:
+```
+
+2. Compile the code:
 
 ```bash
 Copy code
 javac Main.java
 ```
 
-Run the application:
+3. Run the application:
 ```bash
 java Main
 ```
